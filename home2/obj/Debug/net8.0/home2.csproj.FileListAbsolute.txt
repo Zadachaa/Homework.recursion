@@ -1,0 +1,14 @@
+/Users/darazavidova/Desktop/Sem7/home2/bin/Debug/net8.0/home2
+/Users/darazavidova/Desktop/Sem7/home2/bin/Debug/net8.0/home2.deps.json
+/Users/darazavidova/Desktop/Sem7/home2/bin/Debug/net8.0/home2.runtimeconfig.json
+/Users/darazavidova/Desktop/Sem7/home2/bin/Debug/net8.0/home2.dll
+/Users/darazavidova/Desktop/Sem7/home2/bin/Debug/net8.0/home2.pdb
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.AssemblyInfoInputs.cache
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.AssemblyInfo.cs
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.csproj.CoreCompileInputs.cache
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.dll
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/refint/home2.dll
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.pdb
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/home2.genruntimeconfig.cache
+/Users/darazavidova/Desktop/Sem7/home2/obj/Debug/net8.0/ref/home2.dll
